@@ -115,24 +115,24 @@ a{
 .main {
     background-image: url('Background.jpg');
     background-color: aqua;
-    width: 80%; height: 100%;
+    width: 80%; height: auto;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .Painting {
     background-image: url('Background.jpg');
-    width: 80%; height: 100%;
+    width: 80%; height: auto;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .Abstract {
     background-image: url('Background.jpg');
-    width: 80%;height: 100%;
+    width: 80%;height: auto;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .nude {
     background-image: url('Background.jpg');
-    width: 80%; height: 100%;
+    width: 80%; height: auto;
     font-family: 'Times New Roman', Times, serif;
 }
