@@ -99,14 +99,14 @@ p {
 }
 
 .sidebar nav {
-    padding: 45px;
+    padding: 45%;
 }
 
 .sidebar nav li {
     /* background-color: #4caf50; */
     list-style-type: none;
-    font-size: 30px;
-    padding: 33px 0;
+    font-size: 30%;
+    padding: 33%;
 
 }
 a{
